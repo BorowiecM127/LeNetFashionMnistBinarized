@@ -13,6 +13,6 @@ causing loss of accuracy up to approx. 10%.
 For detailed results, please check paper.  
   
 ## Starting an application
-To run application, simply click on Jupyter notebook, then click "Open in Colab".
+To run application, simply click on Jupyter notebook, then click "Open in Colab" button.
 
 
