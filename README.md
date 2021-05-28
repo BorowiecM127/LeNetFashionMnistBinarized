@@ -13,7 +13,7 @@ causing loss of accuracy on up to approx. 10%, at least with training dataset.
   
 On test dataset loss of accuracy is less noticeable.  
 Also, binarization has advantages in case of memory usage.  
-For detailed results, please check paper.  
+For detailed results, please check final report PDF.  
   
 ## Starting an application
 To run application, simply click on Jupyter notebook, then click "Open in Colab" button.
